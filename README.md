@@ -4,13 +4,13 @@ Mini Charging Station using Arduino Uno.
 This was mini project for my group assignment Embedded System Kolej Vokasional.
 
 How this project work?
-1. User insert coin through coin arcade sensor
-2. Coin sensor will read the coin and send the data to the Arduino
-3. If coins meet the exact amount that has been set in the code.
-4. Arduino will send HIGH signal to active the 12V Relay and the 240V AC will supply to the Socket Plug.
-5. The timer will start counting down until the timer ends
-6. After time ends, Arduino will send LOW signal to off 12V Relay to stop 240V AC supply to the Socket Plug.
-7. Coins amount has been set to the time. Example (RM1.00 = 1 HOUR.)
+- User insert coin through coin arcade sensor
+- Coin sensor will read the coin and send the data to the Arduino
+- If coins meet the exact amount that has been set in the code.
+- Arduino will send HIGH signal to active the 12V Relay and the 240V AC will supply to the Socket Plug.
+- The timer will start counting down until the timer ends
+- After time ends, Arduino will send LOW signal to off 12V Relay to stop 240V AC supply to the Socket Plug.
+- Coins amount has been set to the time. Example (RM1.00 = 1 HOUR.)
 
 Items that are use on this project:
 Arduino Uno
