@@ -13,15 +13,15 @@ How this project work?
 - Coins amount has been set to the time. Example (RM1.00 = 1 HOUR.)
 
 Items that are use on this project:
-Arduino Uno
-Resistor 10k
-LCD 16X2
-Breadboard
-Buzzer
-Relay 12V
-Adapter 12V
-Relay 12V
-Socket Plug
+- Arduino Uno
+- Resistor 10k
+- LCD 16X2
+- Breadboard
+- Buzzer
+- Relay 12V
+- Adapter 12V
+- Relay 12V
+- Socket Plug
 
 Please guys i`m looking forward to see improvement on this project up to your creative.
 What you can improve on this project?
